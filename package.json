@@ -29,7 +29,7 @@
     "eslint": "9.12.0",
     "prettier": "3.3.3",
     "ts-node": "10.9.2",
-    "tsup": "8.3.0",
+    "tsup": "8.3.5",
     "typedoc": "0.26.10",
     "typedoc-material-theme": "1.1.0",
     "typedoc-plugin-missing-exports": "^3.0.0",
